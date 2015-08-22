@@ -1,2 +1,14 @@
 # clojure-parallel-dirsize
-This is simple demonstration of how to calculate the size of the directories on HDD. (purpose was to leverage the SSDs low random seek time)
+
+A Clojure library designed to ... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2015 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
