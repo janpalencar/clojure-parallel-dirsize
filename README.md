@@ -9,7 +9,7 @@ Clojure 1.6.0
 
 Create executable
 ```
-./lein bin
+lein bin
 ```
 
 ## Usage
@@ -24,12 +24,12 @@ Total size > 47883443025B
 ```
 
 ##Future work [not planned]
-1. make the througput adjustable (more producers/consumers)
+1. make the throughput adjustable (more producers/consumers)
 2. ...
 
 ## License
 
-Copyright © 2015 jan.palencar
+Copyright © 2011 jan.palencar
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
